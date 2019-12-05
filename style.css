@@ -12,3 +12,10 @@ h3{
     color: blue;
     font-size: 28px;
 }
+li:first-child{
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+
+}
